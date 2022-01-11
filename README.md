@@ -1,2 +1,2 @@
 # Good-Tomato.github.io
-art 306 1
+forward facing github pages/ web hosting
