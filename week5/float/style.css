@@ -1,0 +1,37 @@
+body{background-color: blanchedalmond}
+header{
+	min-height: 100px;
+	background-color:#89a9ff;
+	width:100%;
+}
+#col-1{
+	min-height: 30px;
+	background-color:#000000;
+	Width:33.33%;
+	float:right;
+}
+#col-2{
+	min-height: 30px;
+	background-color:#0045ff;
+	width:33.34%;
+		float:right;
+}
+#col-3{
+	min-height: 30px;
+	background-color: #b39a5d;
+	width:33.33%;
+		float:right;
+}
+#col-4{
+	min-height: 30px;
+	background-color:#bbb9b4;
+	width:50%;
+	float:right
+	
+}
+footer{
+	min-height:50px;
+	background-color: #FFEC19;
+	width:100%;
+	float:right
+}
