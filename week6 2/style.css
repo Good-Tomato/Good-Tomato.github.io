@@ -1,7 +1,8 @@
-@import url("baumans/stylesheet.css");
+
 body {
-    font-size: 20pt;
-    font-family: "baumans"		
+    font-family:baumans
+    font-style: normal;
+    font-weight: 400;
 }
 /*TYPE*/
 
