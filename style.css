@@ -1,6 +1,7 @@
 
-body {
-    font-family: 'Baumans', cursive;}
+body {font-family: 'Baumans', cursive;
+    
+}
 /*TYPE*/
 
     h1{ font-size: 3.052rem;}
@@ -15,9 +16,9 @@ body {
 
     .support{font-size: .8rem;}
 
-
+.
 /*image*/
-    .img{
+    img{
         width:100%;
         padding:0;
         margin: 0;
@@ -26,7 +27,6 @@ body {
 .ingredients{
 	
 	background-color: #0045ff;
-}
 	
 .directions{
     background-color: #7c7f88;
