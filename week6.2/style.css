@@ -1,4 +1,7 @@
+
 body {
+    background-color: aqua;
+    
     font-family: 'Baumans', cursive;}
 /*TYPE*/
 
@@ -13,6 +16,9 @@ body {
     h5 {font-size: 1.25rem;}
 
     .support{font-size: .8rem;}
+
+ 
+
 
 
 /*image*/
@@ -39,10 +45,8 @@ body {
     background-color: #7c7f88;
     display: grid;
     grid-template-columns: 1fr 1fr 1fr;
-
-  
-
-}
+    gap:3px;
+    }
 
     
 
