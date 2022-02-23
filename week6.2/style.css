@@ -28,7 +28,7 @@ body {
 
 .support{
     background-color: antiquewhite;}
-    
+        
 .ingredients{
    margin: 0;
   padding: 0;
@@ -37,12 +37,16 @@ body {
 	
 .directions{
     background-color: #7c7f88;
-  display:grid;
-  grid-template-columns: 1fr 1fr 1fr:
-	
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+
+  
 
 }
 
     
 
 
+.prep {}
+.assemble{}
+.cook {}
