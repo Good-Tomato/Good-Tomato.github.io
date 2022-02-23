@@ -18,34 +18,30 @@ body {
 /*image*/
 
 
-    .img{
-        display:grid;
-        grid grid-row: 1fr:
-        
-        padding:0;
-        margin: 0;
-    }
+   .responsive {
+  width: 100%;
+  height: auto;
+}
 
 
     /*content*/
 
 .support{
     background-color: antiquewhite;
-
-
-    
-
-
 .ingredients{
-	
-	background-color: #0045ff;
+   margin: 0;
+  padding: 0;
+    background-color: #0045ff;
 }
 	
 .directions{
     background-color: #7c7f88;
+  display:grid;
+  grid-template-columns: 1fr 1fr 1fr:
 	
 
 }
 
-.hero {
-}
+    
+
+
