@@ -1,0 +1,74 @@
+
+body {
+    background-color: #bbb9b4;
+    
+    font-family: 'Baumans', cursive;}
+/*TYPE*/
+
+    h1{ font-size: 3.052rem;}
+
+    h2 {font-size: 2.441rem;}
+
+    h3 {font-size: 1.953rem;}
+    
+    h4 {font-size: 1.563rem;}
+    
+    h5 {font-size: 1.25rem;}
+
+    .support{font-size: .8rem;}
+
+ 
+
+
+
+/*image*/
+
+
+   .responsive {
+  width: 100%;
+  height: auto;
+  
+}
+
+
+    /*content*/
+
+.support{
+    background-color: #bbb9b4;
+    padding:0;
+    margin:0;
+    }
+    
+        
+    
+    
+.bigcontainer{
+
+}
+
+ .inghead{text-align:center}   
+    
+        
+        
+.middle{
+   background-color: #89a9ff;
+    }
+    
+
+ .divhead{
+background-color:#b3985d; 
+text-align:center;
+     Padding:0;
+     margin: 0;
+    
+
+        }
+ 
+  
+.bottom{
+background-color:#b3985d;
+
+ display: grid;
+        grid: '.prep .assemble .cook';
+
+}
