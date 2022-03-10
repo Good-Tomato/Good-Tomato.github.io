@@ -1,0 +1,71 @@
+  .responsive {
+  width: 100%;
+  height: auto;}
+    
+    h2 {font-size: 6vw;}
+
+    h3 {font-size: 3vw;}
+    
+    h4 {font-size: 3vw;}
+    
+    h5 {font-size: 2vw;}
+    li{font-size: 2.5vw;}
+ol{ text-shadow: 2px 2px 4px black;
+ color:white; }
+
+.support{font-size: 2vw;
+background-color: black;
+color: white;}
+
+
+
+
+.grid-container-mid {
+    background-color: #bbb9b4;
+    color:#89a9ff;
+    text-shadow: 2px 2px 4px black;
+    font-family: 'Baumans', cursive;
+    text-align:left;
+    display:grid;
+    grid:
+        'upper upper upper'
+        'ih ih ih'
+        'i1 i2 i3';
+    grid-gap:8px;}
+
+.grid-container-end{
+    padding-right: 5vw;
+ background-color: #b3985d;
+    text-shadow: 2px 2px 4px black;
+ color:white; 
+    font-family: 'Baumans', cursive;
+    text-align:left;
+    display:grid;
+    grid:
+        
+        
+        'dh dh dh '
+        'ph ah ch '
+        'pl al cl'
+        ;
+    grid-gap:8px;
+} 
+    
+
+
+
+.support { grid-area: upper;text-align:center;}
+.inghead { grid-area: ih; text-align:center;}
+.ing1 { grid-area: i1; }
+.ing2 { grid-area: i2; }
+.ing3 { grid-area: i3; }
+.dirhead { grid-area: dh;text-align:center; }
+.prephead { grid-area: ph; text-align:center;}
+.asshead{ grid-area: ah;text-align:center;}
+.cookhead{grid-area:ch;text-align:center;}
+.preplist{grid-area:pl;}
+.asslist{grid-area :al;}
+.cooklist{grid-area:cl;}
+
+.hl {
+}
