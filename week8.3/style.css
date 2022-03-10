@@ -17,6 +17,11 @@ ol{ text-shadow: 2px 2px 4px black;
 background-color: black;
 color: white;}
 
+a:link { color: #89a9ff;}
+a:visited {color: darkseagreen;}
+
+a:hover {color: #bbb9b4;}
+
 
 
 
